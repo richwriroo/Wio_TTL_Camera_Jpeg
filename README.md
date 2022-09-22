@@ -29,4 +29,5 @@ Button 3 - Top Right - Toggle Screen on/off
 
 **Wiring**
 Pretty straight forward with Wio.  Just plug in the wires as below.
+
 ![Wiring the TTL Camera to Wio Terminal](https://forum.seeedstudio.com/uploads/default/original/2X/c/cc33014fa102a072a099e36ea93114e7cfaa9638.jpeg)
