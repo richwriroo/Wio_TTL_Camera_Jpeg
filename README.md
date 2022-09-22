@@ -11,11 +11,13 @@ The main value of this repo is using the Adafruit camera with Wio Terminal and s
 NB: It is a bit of a work in progress and has lots of bugs.
 
 **Hardware used:**
+
 Seeed Wio Terminal - https://www.seeedstudio.com/Wio-Terminal-p-4509.html
 Adafruit Weatherproof TTL Serial JPEG Camera with NTSC Video and IR LEDs - https://www.adafruit.com/product/613
 Seeed Wio Terminal Chassis - Battery (650mAh) https://www.seeedstudio.com/Wio-Terminal-Chassis-Battery-650mAh-p-4756.html
 
 **Functionality:**
+
 Wio Terminal Button Functionality - 
 Button 1 - Top Left - Toggle Motion Detection
 Button 2 - Top Middle - Take Photo
@@ -28,6 +30,7 @@ Button 3 - Top Right - Toggle Screen on/off
 5 Way Button - Centre - Delete Current Photo
 
 **Wiring**
+
 Pretty straight forward with Wio.  Just plug in the wires as below.
 
 ![Wiring the TTL Camera to Wio Terminal](https://forum.seeedstudio.com/uploads/default/original/2X/c/cc33014fa102a072a099e36ea93114e7cfaa9638.jpeg)
