@@ -4,7 +4,7 @@ This repo shows how to use an Adafruit TTL weatherprrof camera with Wio Terminal
 
 This was inspired by this project https://www.instructables.com/Arduino-Wildlife-Night-Camera/
 
-My plan was/is to use this for a AI model driven camera as a predator wildlife incursion detection.  I built a model on Edge Impulse deployed as an Arduino library and started writing the code, but have not completed it yet - mainly because I found it pretty hard to edit the images suitable for the inference. I probably won't finish it as Seeed has released a Grove AI Camera for the Wio Terminal and an inductrial version, so I will use that instead.
+My plan was/is to use this for a AI model driven camera as a predator wildlife incursion detection.  I built a model on Edge Impulse deployed as an Arduino library and started writing the code, but have not completed it yet - mainly because I found it pretty hard to edit the images suitable for the inference. I probably won't finish it as Seeed has released a Grove AI Camera (https://wiki.seeedstudio.com/K1100-Vision-AI-Module-Grove-LoRa-E5/) for the Wio Terminal and an industrial version, so I will use that instead.
 
 The main value of this repo is using the Adafruit camera with Wio Terminal and saving the images to SD - it really is a great camera, but the jpg saving is a bit slow.  The IR and motion detection are excellent - better than my commercial (though cheap) Trail Camera's.
 
